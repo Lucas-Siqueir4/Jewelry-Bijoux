@@ -17,11 +17,15 @@ a{
     text-decoration: none;
 }
 
-img {
+.logo {
     width: 150px;
     height: 150px;
     border-radius: 50%;
     border: 5px solid rgba(5, 1, 255, 0.61);
+}
+.catalogo{
+    width: 25%;
+    height: 25%;
 }
 
 .center{
