@@ -24,7 +24,7 @@ a{
     border-radius: 50%;
     border: 5px solid rgba(5, 1, 255, 0.61);
 }
-.catalogo{
+.catalogo {
     width: 250px;
     height: 250px;
 }
@@ -68,4 +68,5 @@ nav a:hover {
     width: auto;
     height: auto;
     border: none;
-    display: block }
+    display: block 
+}
